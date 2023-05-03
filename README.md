@@ -26,7 +26,7 @@ https://github.com/satyamkumarsk/youtube-subscriber.git
 - Open your favorite code editor and run locally!
 ```bash
   npm install
-  npm start
+  npm run
 ```
 
 - Go to browser and search localhost:3000 
